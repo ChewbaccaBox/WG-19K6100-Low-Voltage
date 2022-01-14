@@ -29,3 +29,7 @@ Includes example digikey item #'s
 Multiple installed and working in revisions P314 and P327.\
 The filter capicators of the deflection board are closer to the connector on revision P327, so it is a little tighter, but will still work.
 
+
+**INSTALLATION INSTRUCTIONS:**
+
+To be written... Stay tuned!
