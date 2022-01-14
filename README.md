@@ -16,7 +16,7 @@ Adjustable voltage range = +/- 23.5v - 28.5v \
 **4 * 2.2uF 50V Capacitor**\
 **2 * 10uF 50V Capacitor**\
 **2 * 240 Ohm Resistor 1/4W**\
-**4 * 4500 Ohm Resistor 1/4W**\
+**4 * 4.5k Ohm Resistor 1/4W**\
 **(OPTIONAL) 2 * TO-220 Compact Heatsink + Insulator/Thermal Pad** \
 &nbsp;&nbsp;&nbsp;&nbsp; DGK: 577102B00000G + SP400-0.007-00-54 \
 &nbsp;
