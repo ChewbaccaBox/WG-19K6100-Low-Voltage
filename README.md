@@ -11,8 +11,8 @@ Includes example digikey item #'s
 &nbsp;&nbsp;&nbsp;&nbsp; DGK: LM317TG \
 **1 * LM337 ( TO-220 pkg.)**\
 &nbsp;&nbsp;&nbsp;&nbsp; DGK: LM3137TG \
-**2 * 1k Trimmer Pot (3362W or equivalent)**\
-&nbsp;&nbsp;&nbsp;&nbsp; DGK: 3362W-1-102LF\
+**2 * 1k Trimmer Pot (PCB can fit both '.' and ... pin types, 0.1" spacing)**\
+&nbsp;&nbsp;&nbsp;&nbsp; DGK: 500E-0331 or DGK:3306W-1-102\
 **6 * 1N4007 Diode**\
 **4 * 2.2uF 50V Capacitor**\
 **2 * 10uF 50V Capacitor**\
@@ -27,5 +27,5 @@ Includes example digikey item #'s
 **TESTING STATUS:**
 
 Multiple installed and working in revisions P314 and P327.\
-The capicators are closer to the connector on revision P327, so it is a little tighter, but will still work.
+The filter capicators of the deflection board are closer to the connector on revision P327, so it is a little tighter, but will still work.
 
