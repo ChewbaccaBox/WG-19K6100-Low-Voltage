@@ -4,7 +4,8 @@ Larger / Through-hole parts provide beter thermals.\
 Adjustable voltage range = +/- 23.5v - 28.5v \
 &nbsp;
 
-**PARTS LIST** (per unit) & GOOD DIGIKEY NUMBERS:
+**PARTS LIST** (per unit) :\
+Includes example digikey item #'s
 
 **1 * LM317 ( TO-220 pkg.)**\
 &nbsp;&nbsp;&nbsp;&nbsp; DGK: LM317TG \
