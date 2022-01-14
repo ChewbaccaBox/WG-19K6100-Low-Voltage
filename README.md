@@ -23,7 +23,6 @@ Adjustable voltage range = +/- 23.5v - 28.5v \
 
 **TESTING STATUS:**
 
-Has been made, assmebled, and put into a 6100 deflection board.\
-Produces correct voltages when power applied.\
-I haven't yet tried it with everything hooked up but it should work.\
-Also therefore don't know how durable/long-lasting it is.
+Multiple installed and working in revisions P314 and P327.\
+The capicators are closer to the connector on revision P327, so it is a little tighter, but will still work.
+
